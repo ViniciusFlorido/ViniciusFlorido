@@ -6,9 +6,6 @@
 
 📊 Atualmente, estou desenvolvendo um projeto acadêmico, no qual utilizo Python, Pandas, SQL e Excel para tratamento, análise e extração de dados, além de Power BI para visualização e apoio à tomada de decisão.
 
-
-
-
 <p align="left">
       <a href="https://www.linkedin.com/in/vinicius-florido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
@@ -41,13 +38,22 @@
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
 <img 
     align="left" 
     alt="Pandas" 
     title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
@@ -64,6 +70,7 @@
 
 <br clear="left"/>
 
+---
 
 ### 📊 Estatísticas
 
